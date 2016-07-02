@@ -10,9 +10,10 @@ namespace StructureCSharp
     {
         static void Main(string[] args)
         {
-            int myVariable;
+            int myInt = 50;
 
             Console.WriteLine("Hello World");
+            Console.ReadLine();
         }
     }
 }
